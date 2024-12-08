@@ -1,0 +1,1 @@
+The following file is an arduino file that uses the arduino IDE to control the Arduino UNO microcontroller to operate a keypad entry gate. The gate is controlled by a solenoid which uses the 2N2222 transistor to control the operation of the solenoid at 5 volts, provided by the on board supply of the microcontroller.
